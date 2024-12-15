@@ -1,0 +1,12 @@
+For adjusting difficulty, edit the arguments in play() at the bottom of the code in quickmaths.py
+
+Argument 1 - Start Difficulty: 	Determines the possible number size used in expressions.
+					A value of 0.5 or greater is recommended.
+Argument 2 - Difficulty Increase: 	Determines by how many points the difficulty increases when the user enters a correct answer.
+					A value of 0 or greater is recommended.
+Argument 3 - Timer Start:		Determines how many seconds the timer starts with.
+					A value of 10 or greater is recommended.
+Argument 4 - Added Time:		Determines how many seconds are added when the user enters a correct answer.
+					A value of 0 or greater is recommended.
+Argument 5 - Time Penalty:		Determines how many seconds are substracted when the user enters an incorrect answer.
+					A value of 0 or greater is recommended.
